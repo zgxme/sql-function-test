@@ -1,1 +1,15 @@
 {"precision":5, "value":'2021-12-31 12:00:00'}
+{"precision":5, "value":'2021-12-31 12:00:00'}
+{"precision":5, "value":'0000-01-01 12:00:00'}
+{"precision":6, "value":'9999-12-31 12:00:00'}
+{"precision":5, "value":'9999-12-31.99999 12:00:00'}
+{"precision":2, "value":'9999-12-31.0001 12:00:00'}
+{"precision":5, "value":'2020-02-29 12:00:00'}
+{"precision":5, "value":'2021-02-28 12:00:00'}
+{"precision":5, "value":'2021-02-29 12:00:00'}
+{"precision":5, "value":'12345-12-31 12:00:00'}
+{"precision":5, "value":'0000-13-01 12:00:00'}
+{"precision":5, "value":'0000-12-13 12:00:00'}
+{"precision":5, "value":'202012-12    12:00:00'}
+{"precision":5, "value":'123-012-012  12:00:00'}
+{"precision":5, "value":'测试          12:00:00'}

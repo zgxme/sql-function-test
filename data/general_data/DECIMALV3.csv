@@ -1,1 +1,13 @@
 {"scale":16, "precision":7, "value":123456789.1234567}
+{"scale":16, "precision":7, "value":123456789.1234567}
+{"scale":10, "precision":5, "value":98765.43210}
+{"scale":8, "precision":3, "value":8765432.210}
+{"scale":5, "precision":2, "value":54321.34}
+{"scale":3, "precision":1, "value":321.4}
+{"scale":16, "precision":10, "value":12345.1234567890}
+{"scale":12, "precision":6, "value":678901.234567}
+{"scale":14, "precision":5, "value":7890123.12345}
+{"scale":9, "precision":0, "value":890123456}
+{"scale":7, "precision":4, "value":9012345.6789}
+{"scale":16, "precision":8, "value":123.45678901}
+{"scale":11, "precision":3, "value":2345.678}
